@@ -1,0 +1,314 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For the under-officers and souldiers of the English army, from the people of Scotland</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84670</idno>
+            <idno type="STC">Wing F1438D</idno>
+            <idno type="STC">ESTC R229864</idno>
+            <idno type="EEBO-CITATION">99899377</idno>
+            <idno type="PROQUEST">99899377</idno>
+            <idno type="VID">153226</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84670)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153226)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2355:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For the under-officers and souldiers of the English army, from the people of Scotland</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) :   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler, printer to the Kings most excellent Maiesty,</publisher>
+                  <pubPlace>[Edinburgh] :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:153226:1" rendition="simple:additions"/>
+            <head>For the Under-Officers and Souldiers OF THE <hi>ENGLISH ARMY,</hi> From the People of SCOTLAND.</head>
+            <p>
+               <seg rend="decorInit">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </seg>T concerns you as you deſire not to imbrue your hands in the blood of the Lords people without a cauſe, and to be anſwe<g ref="char:EOLhyphen"/>rable to the righteous Judge of the world in the day of your accompts, to conſider whether the invading of the Kingdome of <hi>Scotland,</hi> wherein We, and all our Intereſts are included, be not a thing moſt ſinfull and unlawfull, which will bring wrath and indignation from the Lord upon all theſe who are engaged therein, or acceſſory thereto, and becauſe we know that things are miſrepreſented unto you, and you are made to believe that your undertaking is juſt and neceſſary, We ſhall there<g ref="char:EOLhyphen"/>fore for your Information, ſhortly ſhew you how unwarrantable the grounds are, upon which your ſo called Parliament have concluded, and commanded to invade this Land; that if it be poſſible, your ſinne, and our affliction may be avoyded.</p>
+            <p>The firſt ground which is hinted at in the Declaration of your ſo called Parliament, is the Commiſſioners of <hi>Scotland</hi> their uſurping upon Acts of Legiſlative power, and their frequent pretenſions to, and conteſtations about a joint intereſt in ſome Acts of it, whilſt they were reſident in <hi>England,</hi> and whilſt nothing but friendſhip and unanimity in the ſame cauſe was pretended. But it is moſt certain, that the Commiſſioners of <hi>Scotland</hi> did never claim, nor aſſume to themſelves any <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ving of Lawes in <hi>England,</hi> The moſt that they did, was, 1. The Committee of both Kingdoms being appointed by the <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f both Kingdomes, they acted therein in a coordinate way in things of common Intereſt. 2. They did often by Letters <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uſes of Parliament their deſires, and give them warning when they were either negligent in, or averſe from their dutie <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for a joynt intereſt in the Kings Perſon, he being King of <hi>Scotland,</hi> as well as of <hi>England.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, which is much inſiſted upon, is the late unlawful Engagement againſt <hi>England</hi> in the year 1648. But how un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> this Kingdome, will appear to you in theſe particulars. 1. That Engagement was proteſted againſt in the Parli<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the Parliament it ſelfe, even thoſe who at firſt entered in Covenant with <hi>England,</hi> and ſent an Army for their <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Scotland.</hi> 2. Not only did the Body of the Miniſtrie of the land preach and pray againſt it, but all the Judicatories <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> it, and the Generall Aſſembly did in the very time of the going forth of the Army, publiſh a large Declaration <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in Shyres did petition the Parliament againſt it; So were the Body of the people of the Land, eſpecially the <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to God againſt it, So did they refuſe to contribute thereto, and concurre therein: and becauſe of this, <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> prevailing partie of Malignants, who carried it on. 4. Thoſe who had proteſted againſt it in Parliament, and <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> did before the defeat at <hi>Preſton</hi> begin to ſtirre in Armes againſt it, and did not lay them down, untill they <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that carried it on. 5. The Houſe of Commons, and Lieutenant Generall CROMVVELL by their <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, the other to the Committee of Eſtates, doe in a large way bear teſtimony to the Innocencie of the honeſt <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> alſo give them aſſiſtance againſt thoſe who carried on that Engagement.</p>
+            <p>
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in by the Commiſſioners of this Kingdome at <hi>Weſtminſter,</hi> againſt the taking away of the Kings life, and <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>is, as it was an innocent and harmleſſe, ſo was it a neceſſary duty: not onely becauſe of the Irregularity and <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> men wanting authority, and of the joynt intereſt of the Kingdom: of <hi>Scotland</hi> in the Kings Perſon, but alſo be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reat ſcandall, and many ſad conſequents that would follow thereupon to both Kingdomes.</p>
+            <p>
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> refuſing to repair the dammages that <hi>England</hi> ſuſtained in the unlawful Engagement, in the year 1648. But to <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mand reparation of thoſe dammages from thoſe who were ſufferers themſelves; reparation was not refuſed, but as the <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to the Parliament of <hi>England,</hi> that none who had been active in, or conſenting to the ſaid Engagement, ſhould be <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> truſt whatſoever, without the adv<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce and conſent of the Kingdome of <hi>England,</hi> ſo did they not refuſe all fair and amica<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> deſired to know the particular wrongs and dammages, and upon knowledge thereof, offered to give juſt ſatisfaction.</p>
+            <p>
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ound is, a reſolution in thoſe of the Kingdom of <hi>Scotland,</hi> again to invade <hi>England,</hi> which is fancied upon very unwarrantable grounds, <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of a Treatie, The proclaiming of <hi>Charles Stewart</hi> King of <hi>England,</hi> and promiſing him aſſiſtance againſt <hi>England,</hi> and declaring againſt the <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow preva<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>les in <hi>England,</hi> as Sectaries, &amp;c. To all which we ſay, that this Kingdome did refuſe to treat with your Parliament, not becauſe they <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rpoſe to invade the Kingdome of <hi>England,</hi> but becauſe a prevailing party having taken away the Houſe of Lords, and alſo driven away, and impri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> any members of the Houſe of Commons, and changed the Government; They could not acknowledge the remnant for the ſupream authority of <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the King, they did no otherwayes proclaim him King, then in the ordinary way, that hath been followed by both Kingdomes ſince <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> King, and they have given him no promiſe but this, that they will by all lawfull means within their power and calling, <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, contribute their endeavours for his peaceable reſtitution to the Government of his other dominions. And as to the declaring <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is farre from concluding a reſolution to make Warre upon them, we can and ought to mourn and pray, and bear teſtimony <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be farre from thoughts of invading of them; We will aſſure you, that as thoſe grounds contained in the Declaration of your ſo <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>clude it; ſo hath there not hitherto been any ſuch queſtion debated, nor any ſuch reſolution taken in the publick counſels of <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> been done here, hath been meerly in reference to defence of the Land, if we ſhould be invaded from <hi>England.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> your conſciences, and as before the Lord to weigh well whether God will countenance you in ſuch a thing, and whether <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>venant in you, after <hi>England</hi> hath ſworne before God and Angels, and men, to preſerve the Union and Peace betwixt the <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>auſe to invade this Land, and make Warre upon us, and oppreſſe us, and ſhed our blood. We will aſſure you, that all who <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Heaven againſt ſuch oppreſſion, and you have cauſe to be afraid, that becauſe of the ſame, God will ariſe to execute judge<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is not againſt malignants, but againſt thoſe who in the integrity of their hearts have been following Jeſus Chriſt, and his <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>werable to the Goſpell, and who helped <hi>England</hi> in the day of her diſtreſſe, and have ſuffered much on her behalfe, choſing <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that the malice of malignaants could deviſe, then to break with <hi>England,</hi> or ſet one foot in that Land in an hoſtile way. <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> who ſhall take warning to proceed no farther in an evill way, leaſt God who is the Judge of all things, look upon ſuch inju<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch of Covenant, and require it.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <gap reason="illegible" resp="#APEX" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by <hi>Evan Tyler,</hi> Printer to the Kings moſt Excellent Maieſty, 1650.</p>
+            <pb facs="tcp:153226:2" rendition="simple:additions"/>
+            <pb facs="tcp:153226:3" rendition="simple:additions"/>
+            <pb facs="tcp:153226:3"/>
+            <pb facs="tcp:153226:4" rendition="simple:additions"/>
+            <pb facs="tcp:153226:5" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
